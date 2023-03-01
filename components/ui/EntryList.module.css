@@ -1,0 +1,11 @@
+.dragging{
+
+    background-color: rgba(35, 6, 131, 0.974) ;
+    border-radius: 10px;
+    border: 2px dashed rgb(185, 249, 8);
+   
+    opacity: 1.80;
+    transform: scale(0.75);
+    transition: transform 2s ease-in-out;
+}
+
